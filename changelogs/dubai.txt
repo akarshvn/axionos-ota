@@ -1,0 +1,7 @@
+AxionOS 1.5 Update
+Build Date: 14th June 2025	
+- Initial A15 Release
+- June 2025 Security Patch
+- Includes Google Apps
+- Includes Moto Cam
+- Includes AudioFX & Basic Call Recorder
