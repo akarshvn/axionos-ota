@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1749914795,
-            "filename": "axion-1.5-NIGHTLY-20250614-COMMUNITY-GMS-dubai.zip",
-            "id": "00583d8e926096c21bd1a3116c8ec228",
+            "datetime": 1749982271,
+            "filename": "axion-1.5-NIGHTLY-20250615-COMMUNITY-GMS-dubai.zip",
+            "id": "c9d3cbcb52a5c949cfe1a10c1760ee95",
             "romtype": "COMMUNITY",
-            "size": 1910114718,
-            "url": "https://sourceforge.net/projects/aosp-rom-releases/files/axionOS/dubai/15/14th_June_2025/axion-1.5-NIGHTLY-20250614-COMMUNITY-GMS-dubai.zip/download",
+            "size": 1910140982,
+            "url": "https://sourceforge.net/projects/aosp-rom-releases/files/axionOS/dubai/15/15th_June_2025/axion-1.5-NIGHTLY-20250615-COMMUNITY-GMS-dubai.zip/download",
             "version": "1.5"
         }
     ]
