@@ -1,6 +1,7 @@
 AxionOS 1.6 Update
 Build Date: 14th July 2025
 - Final A15 Release
+- June 2025 Security Patch
 - Includes Dolby & ViperFX
 - Gapps Build
 - Userdebug Build + Signed
